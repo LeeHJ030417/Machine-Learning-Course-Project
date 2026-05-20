@@ -11,3 +11,5 @@
 - 2026.05.19: 5.17의 피드백 반영 (피드백으로 마스킹 과정 중 punctuation_removal, lowercasing, whitespace_normalization을 통합하는게 좋아보임.), 실행 시 A100 GPU 기준으로 90분 정도 소요
 
 - 2026.05.20: 5.19의 피드백 반영, 실행 시 A100 GPU 기준으로 90분 정도 소요 (5.19일 내용과 표현 정리 차이만 존재, 실질적인 수행 과정은 같음.)
+
+- 2026.06.09: Final Presentation
